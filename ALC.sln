@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALC", "ALC\ALC.csproj", "{38067A2D-9B08-43C8-999C-276F003BE220}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "AI Setup Project1", "AI Setup Project1\AI Setup Project1.aiproj", "{A5403E87-A21A-497C-AD3C-7E6FA51D100D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38067A2D-9B08-43C8-999C-276F003BE220}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{38067A2D-9B08-43C8-999C-276F003BE220}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{38067A2D-9B08-43C8-999C-276F003BE220}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{38067A2D-9B08-43C8-999C-276F003BE220}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{38067A2D-9B08-43C8-999C-276F003BE220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38067A2D-9B08-43C8-999C-276F003BE220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5403E87-A21A-497C-AD3C-7E6FA51D100D}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{A5403E87-A21A-497C-AD3C-7E6FA51D100D}.Debug|Any CPU.Build.0 = DefaultBuild
+		{A5403E87-A21A-497C-AD3C-7E6FA51D100D}.DefaultBuild|Any CPU.ActiveCfg = DefaultBuild
+		{A5403E87-A21A-497C-AD3C-7E6FA51D100D}.DefaultBuild|Any CPU.Build.0 = DefaultBuild
+		{A5403E87-A21A-497C-AD3C-7E6FA51D100D}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{A5403E87-A21A-497C-AD3C-7E6FA51D100D}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
